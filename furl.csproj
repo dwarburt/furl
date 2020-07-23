@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.CloudWatchLogs" Version="3.3.102.36" />
+  </ItemGroup>
+
 </Project>
